@@ -1,4 +1,4 @@
-# VPC-Traffic-Flow-And-Security
+# AWS-VPC-Traffic-Flow-And-Security
 
 ## Introduction
 Think of the AWS Cloud as an entire country, and a VPC (Virtual Private Cloud) as your own private city within it. Just like a city has roads, buildings, and security checkpoints, your VPC has subnets, instances, and security controls that you can manage. You have full control over who enters, how traffic flows, and which areas remain private or public, ensuring a secure and customized environment tailored to your needs. 
